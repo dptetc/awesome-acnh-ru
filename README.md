@@ -50,7 +50,7 @@
 * [**Transcribed guidebook**](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/preview#): Сообщество краудсорсинговых документов делится фактами из официального руководства Nintendo. _⚠️ Остерегайтесь <b>СПОЙЛЕРОВ</b>_!
 
 ### Геймплей
-* [**Travel Guide**](https://jeffreykuiken.nl/acnhtg/): Приложение для iOS, которое будет служить вашим карманным компаньоном во время игры; список жуков и рыб, доступных для ловли _ прямо сейчас_, с указанием местоположения, размера и цен продажи; инвентарь жителей деревни и все предметы, включая окаменелости, произведения искусства, песни K. K. Slider и цветы. `⭐️ настоятельно рекомендуем` 
+* [**Travel Guide**](https://jeffreykuiken.nl/acnhtg/): Приложение для iOS, которое будет служить вашим карманным компаньоном во время игры; список жуков и рыб, доступных для ловли _ прямо сейчас_, с указанием местоположения, размера и цен продажи; инвентарь жителей деревни и все предметы, включая окаменелости, произведения искусства, песни К.К. Слайдера и цветы. `⭐️ настоятельно рекомендуем` 
 * [**AC Helper**](https://apps.apple.com/us/app/ac-helper/id1508764244?ls=1) [:octocat:](https://github.com/Dimillian/ACHNBrowserUI): Бесплатное приложение для iOS, доступное в App Store для iPhone, iPad и macOS. Настраиваемая панель мониторинга для отслеживания ваших рыб, жуков, прогресса сбора, активных событий, ежедневных задач, список задач и многого другого. Музыкальный плеер для песен K. K. Slider - воспроизводится, когда приложение находится в фоновом режиме! Полный браузер каталогов с фильтром, сортировкой и поиском. Список жителей. Поддержка Spotlight для рыб, жуков, окаменелостей и предметов искусства. Синхронизация iCloud для выполнения сбора, списков, задач и списка задач.
 * [**Critterpedia (1)**](https://critterpedia.moppler.co.uk) [:octocat:](https://github.com/Moppler/Critterpedia): Мобильное-первое веб-приложение, в котором перечислены жуки и рыбы, доступные для ловли _ прямо сейчас_, с указанием местоположения и цены продажи.
 * [**Critterpedia (2)**](https://critterpedia.nharox.com) (**in Beta**) Еще один инструмент Critterpedia с форматом сетки. Также показаны окаменелости и произведения искусства. Вы можете выбрать элементы, которые вы уже нашли/пожертвовали, и сохранить их в веб-приложении во вкладке для коллекций.
@@ -101,168 +101,168 @@
 * [**r/AnimalCrossingTours**](https://www.reddit.com/r/AnimalCrossingTours/): Центр вдохновения сообщества для планировки островов и комнат.
 
 ## Управление
-* In your pocket, hold <kbd>A</kbd> on an item to grab and reorder
-* In your pocket, hold <kbd>A</kbd> on an item to grab it and place it on top of the same item to create a new stack. (For example, take out 3 10,000 Bell bags from your wallet, then grab and drop two of them on top of another to create one 30,000 Bell bag.) 
-* Hold <kbd>B</kbd> to run
-* Press <kbd>A</kbd> while crafting/customizing to speed up the animation
-* Press <kbd>B</kbd> or <kbd>L</kbd> while talking to characters to speed up the conversation
-* Use the left <kbd>←</kbd> and right <kbd>→</kbd> directional-pad arrows to cycle through your Favorite tools
-* Press the down <kbd>↓</kbd> directional-pad arrow to put away/take out your last-used tool
-* Press <kbd>Y</kbd> to fill in a hole without using your shovel
-* Press <kbd>A</kbd> in front of certain furniture/housewares to interact with them
+* В кармане удерживайте <kbd>A</kbd> на элементе, чтобы захватить и изменить порядок
+* В кармане удерживайте <kbd>A</kbd> на элементе, чтобы захватить его и поместить поверх того же элемента, чтобы создать новый стак. (Например, достаньте из кошелька 3 10 000 мешков с динями, затем возьмите и положите два из них поверх другого, чтобы создать один мешок с динями на 30 000.)
+* Удерживайте <kbd>B</kbd> для бега
+* Нажмите <kbd>A</kbd> во время создания/настройки, чтобы ускорить анимацию
+* Нажмите <kbd>B</kbd> или <kbd>L</kbd> во время разговора с персонажами, чтобы ускорить разговор
+* Используйте стрелки влево <kbd>←</kbd> и вправо <kbd>→</kbd> для переключения между вашими избранными инструментами
+* Нажмите стрелку вниз <kbd>↓</kbd>, чтобы убрать/вынуть последний использованный инструмент
+* Нажмите <kbd>Y</kbd>, чтобы закопать яму без использования лопаты
+* Нажмите <kbd>A</kbd> перед определенной мебелью/предметами дома, чтобы взаимодействовать с ними
 
 ## Подсказки
 
 ## #Основной геймплей, причуды, и наслаждения
-* If you need to craft something on your island but you’re far from one of your own benches, try popping into one of your villager’s houses to see if their DIY Craft bench is out, or use the one by Tom Nook inside Resident Services!
-* If you are physically sharing your Nintendo Switch, the first account to play the game owns the island and dictates initial progress.
-* If you want to get rid of an item in your pocket and cannot re-sell it or give it away, you can permanently throw them out in a garbage can if you have one placed in your home or outside.
+* Если вам нужно что-то сделать на своем острове, но вы находитесь далеко от одной из своих собственных скамеек, попробуйте заглянуть в один из домов вашего жителя, чтобы посмотреть, нет ли их скамейки для поделок, или воспользуйтесь той, которую предлагает Том Нук в местных службах!
+* Если вы физически делитесь своим Nintendo Switch, первая учетная запись, которая будет играть в игру, владеет островом и диктует начальный прогресс.
+* Если вы хотите избавиться от предмета в кармане и не можете перепродать его или отдать, вы можете навсегда выбросить его в мусорное ведро, если оно находится у вас дома или снаружи.
 
 #### Флора
-* Palm trees only grow in sand (either from your beaches or a sand path via the Island Designer NookPhone app).
-* You cannot give uprooted flowers or trees to another villager or player, nor store them in your house. 
-* You may plant uprooted flowers in your pocket on another player’s island, even if you aren’t Best Friends.
-* Trees can be uprooted by eating food and using your shovel to dig up the tree.
-* Trees need at least 1 empty space in all directions around them to grow. Once a tree is fully grown, it can be moved to be closer to other objects (other trees, furniture, flowers, fencing, etc.) by uprooting it and replanting it.
+* Пальмы растут только в песке (либо на ваших пляжах, либо на песчаной дорожке через приложение Island Designer NookPhone).
+* Вы не можете отдать вырванные с корнем цветы или деревья другому жителю или игроку, а также хранить их в своем доме.
+* Вы можете посадить вырванные с корнем цветы в своем кармане на острове другого игрока, даже если вы не лучшие друзья.
+* Деревья можно выкорчевать, съев пищу и используя лопату, чтобы выкопать дерево.
+* Деревьям нужно по крайней мере 1 пустое пространство во всех направлениях вокруг них, чтобы расти. Как только дерево полностью вырастет, его можно переместить поближе к другим объектам (другим деревьям, мебели, цветам, ограждению и т. Д.), Выкорчевав его и пересадив.
 
 #### Время
-* Weather changes only occur on the hour.
-* The exception to a new day’s changes occuring at 5:00 am (see: [Timing](#timing)) are critters appearing or disappearing at the start of a new month. These changes occur at midnight when the local date changes.
+* Изменения погоды происходят только в течение часа.
+* Исключением из изменений нового дня, происходящих в 5:00 утра (см.: [Тайминги](#тайминги)), являются твари, появляющиеся или исчезающие в начале нового месяца. Эти изменения происходят в полночь, когда изменяется локальная дата.
 
 #### Питание
-* If you eat food before you hit a stone, it will break. The stone will reappear a new area the following day.
-* If you’ve eaten more food than you’d like, try sitting on a toilet.
+* Если вы съедите пищу до того, как ударитесь о камень, он разобьется. На следующий день камень снова появится в новом месте.
+* Если вы съели больше пищи, чем вам хотелось бы, попробуйте сесть на унитаз.
 
 #### Музыка
-* If you place more than one stereo in a room in your house, it will amplify the registered song.
-* Each stereo placed outside can play a different registered song, but you‘ll only hear the closest one. Your villagers will pay attention to music they hear!
-* Your villagers will be interested in instruments placed outside.
+* Если вы разместите более одной стереосистемы в комнате в вашем доме, она усилит зарегистрированную песню.
+* Каждая стереосистема, размещенная снаружи, может воспроизводить другую зарегистрированную песню, но вы услышите только самую близкую. Ваши жители будут обращать внимание на музыку, которую они слышат!
+* Ваши жители будут заинтересованы в инструментах, размещенных снаружи.
 
 #### Одежда и дизайн
-* If you create outfits with a Wand, the wearable items in the outfits are “stored” in the Wand and are unusable in other outfits.
-* The following items retain their most recent customization even after the art in the custom design slot is deleted or changed: island flag, phone case, face paint.
+* Если вы создаете одежду с помощью палочки, носимые предметы в одежде “хранятся” в палочке и непригодны для использования в других нарядах.
+* Следующие элементы сохраняют свои последние настройки даже после удаления или изменения рисунка в слоте пользовательского дизайна: флаг острова, чехол для телефона, краска для лица.
 
 ### Посещение других островов
-* Download the [Nintendo Switch Online app](https://www.nintendo.com/switch/online-service/app/) for your phone to use the NookLink feature to type messages in-game using your phone’s keyboard instead of the game controller.
-* Don’t run through flowers. It takes time for the blooms to grow back. Be sure to walk wherever you see flowers.
-* Don’t leave by pressing the <kbd>-</kbd> button. It will interrupt the progress of every other visitor’s interactions. 
-* Ask before you buy one of the 2-3 furniture items at the back wall of Nook’s Cranny or art from Jolly Redd. These items can only be purchased once, so it’s polite to ask if it’s okay for you to buy it. (The small items on the table at Nook’s and furniture from Jolly Redd have no purchase limit. And you can always offer to let the island owner catalog the Nook’s item!)
-* Don’t shake trees, chop wood, grab shells, pick flowers, etc. without asking first. Most friends will be totally okay with you taking replenishable resources, but it’s always polite to ask.
-* If you’re visiting a stranger for a trade, it’s polite not to talk to their residents. Villagers will remember you and ask about you, and it can be awkward and unwanted for a neighbor to ask about a stranger that came by for a deal!
-* Unlike Sahara, Leif, Kicks, etc., you can only buy one piece of art from any Jolly Redd per day and obtain one recipe from any Celeste per night.
-* Adding a player to your Best Friends list via the NookPhone means you can use your shovel and axe tools on their island.
-* If you’re hosting visitors for a roaming guest like Sahara or Celeste, try sharing their last known location via coordinates in the map app.
-* If you’re visiting an island for a particular recipe a villager is crafting at their DIY bench, check the map on your NookPhone to see where their house is!
-* You cannot invite a camper on another island to move into your island.
+* Загрузите [Онлайн-приложение Nintendo Switch](https://www.nintendo.com/switch/online-service/app/) для вашего телефона, чтобы использовать функцию NookLink для ввода сообщений в игре с помощью клавиатуры телефона вместо игрового контроллера.
+* Не бегайте по цветам. Требуется время, чтобы цветы снова выросли. Обязательно гуляйте везде, где увидите цветы.
+* Не уходите, нажав кнопку <kbd>-</kbd>. Это будет прерывать ход взаимодействия каждого другого посетителя.
+* Спросите, прежде чем покупать один из 2-3 предметов мебели у задней стены Nook's Cranny или art от Jolly Redd. Эти предметы можно приобрести только один раз, поэтому вежливо спросить, можно ли вам их купить. (Мелкие предметы на столе в Nook's и мебель от Jolly Redd не имеют ограничений на покупку. И вы всегда можете предложить владельцу острова каталогизировать предмет Nook!)
+* Не трясите деревья, не рубите дрова, не хватайте ракушки, не срывайте цветы и т. Д. не спросив сначала. Большинство друзей будут полностью согласны с тем, что вы берете пополняемые ресурсы, но всегда вежливо спрашивать.
+* Если вы посещаете незнакомца для торговли, вежливо не разговаривать с его жителями. Жители деревни будут помнить вас и спрашивать о вас, и соседу может быть неловко и нежелательно спрашивать о незнакомце, который пришел за сделкой!
+* В отличие от Сахары, Лейфа, Пинков и т. Д., Вы можете купить только одно произведение искусства у любого Веселого Редда в день и получить один рецепт от любой Селесты за ночь.
+* Добавление игрока в список ваших лучших друзей через NookPhone означает, что вы можете использовать свои инструменты для лопаты и топора на их острове.
+* Если вы принимаете посетителей для перемещающегося гостя, такого как Сахара или Селеста, попробуйте поделиться их последним известным местоположением с помощью координат в приложении карты.
+* Если вы посещаете остров по определенному рецепту, который сельский житель создает на своей скамейке для поделок, проверьте карту на своем телефоне, чтобы узнать, где находится их дом!
+* Вы не можете пригласить туриста с другого острова переехать на ваш остров.
 
 ### Дружба с жителями
-* Friendship rankings do not correlate with move-out requests, which are randomized. <sup>[`source`](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/edit#heading=h.kmdduxio23l3)</sup>
-* Certain actions will raise or lower your friendship ranking with your villagers. <sup>[`source`](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/edit#heading=h.kmdduxio23l3)</sup>
-  * **Raise friendship ranking**
-    * Talk to them (once per day)
-    * Send them a letter (increases when they reply)
-    * Give them a present (when ranking is already high)
-    * Give them a wrapped birthday gift
-    * Complete a request for them
-    * Sell them an item they want
-  * **Lower friendship ranking**
-    * Hit them with a tool
-    * Push them around a lot
-    * Give them trash items (tire, boot, weeds, rotten turnips, etc.)
-    * Decline a request
-    * Accept a request but fail to carry it out
-* For much more information on how to affect friendship and what friendship means in the game, see the links in the [Friendship](#friendship) resources category.
+* Рейтинги дружбы не коррелируют с запросами на переезд, которые рандомизированы. <sup>[`источник`](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/edit#heading=h.kmdduxio23l3)</sup>
+* Определенные действия повысят или понизят ваш рейтинг дружбы с вашими жителями. <sup>[`источник`](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/edit#heading=h.kmdduxio23l3)</sup>
+  * **Повышение рейтинга дружбы**
+    * Поговорите с ними (один раз в день)
+    * Отправьте им письмо (увеличивается, когда они отвечают)
+    * Подарите им подарок (когда рейтинг уже высок)
+    * Подарите им завернутый подарок на день рождения
+    * Заполните запрос на них
+    * Продайте им товар, который они хотят
+  * **Понижение рейтинга дружбы**
+    * Ударь их инструментом
+    * Толкайте их много
+    * Дарите им мусор (шины, ботинки, сорняки, гнилую репу и т.д.)
+    * Отклоняйте запрос
+    * Примите запрос, но не выполните его
+* Для получения более подробной информации о том, как повлиять на дружбу и что означает дружба в игре, см. Ссылки в категории ресурсов [Дружба](#дружба).
 
 ## Тайминги
-Time is determined by your Nintendo Switch’s local time. Though midnight local time changes the date, a new “day” in ACNH officially starts at 🕔 **`5:00 am`**, when daily announcements are made on your island, dailies “refill”, visitors arrive/leave, and projects make progress.
+Время определяется местным временем вашего коммутатора Nintendo. Хотя полночь по местному времени меняет дату, новый “день” в ACNH официально начинается в 🕔 **`5:00 утра`**, когда на вашем острове делаются ежедневные объявления, ежедневные “пополнения”, посетители прибывают/уходят, а проекты продвигаются.
 
-#### ☀️ Daytime, 5:00 am — 5:59 pm
-| ⏰ Time | 🗓️ Event |
+#### ☀️ Дневное время, 5:00 утра — 5:59 вечера
+| ⏰ Время | 🗓️ Событие |
 | :--- | :--- | 
-| 🕔 **`5:00 am`** | Day begins |
-| 🕘 **`8:00 am`** | Nook’s Cranny opens |
-| 🕙 **`9:00 am`** | Able Sisters opens |
+| 🕔 **`5:00 am`** | День начинается |
+| 🕘 **`8:00 am`** | Nook’s Cranny открывается |
+| 🕙 **`9:00 am`** | Сестры Эёбл открываются |
 
-#### 🌙 Nighttime, 6:00 pm — 4:59 am
-| ⏰ Time | 🗓️ Event |
+#### 🌙 Ночное время, 6:00 вечера — 4:59 утра
+| ⏰ Время | 🗓️ Событие |
 | :--- | :--- | 
-| 🕘 **`9:00 pm`** | Able Sisters closes |
-| 🕙 **`10:00 pm`** | Nook’s Cranny closes |
+| 🕘 **`9:00 pm`** | Сестры Эёбл закрываются |
+| 🕙 **`10:00 pm`** | Nook’s Cranny закрывается |
 
-#### Every day/night switch
-* Certain critters appear or disappear
-* Certain villagers are more or less active
-* Balloon presents switch sides by spawning from the opposite beach
+#### Каждый день/ночь переключатель
+* Некоторые животные появляются или исчезают
+* Некоторые жители более или менее активны
+* Воздушный шар представляет собой переход на другую сторону, нерестясь с противоположного пляжа
 
 ### Ежедневное
-Every day starting at 🕔 **`5:00 am`**, you can accomplish these tasks all over again: <sup>[`source 1`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21162973/day-dailies-fossils-money-rock-bells-furniture) [`source 2`](https://c.eev.ee/acnh-companion/#tips)</sup>
+Каждый день, начиная с 🕔 **`5:00 утра`**, вы можете выполнять эти задачи снова и снова: <sup>[`источник 1`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21162973/day-dailies-fossils-money-rock-bells-furniture) [`источник 2`](https://c.eev.ee/acnh-companion/#tips)</sup>
 
-* [ ] Check in at the Nook Stop (300 Nook Miles per day after your first 6 days)
-* [ ] Shop the Nook Stop for new special catalog items and fence recipes
-* [ ] Shop at Nook’s Cranny and the Able Sisters’
-* [ ] Complete the first 5 Nook Miles+ missions of the day for 2x bonus
-* [ ] Find your island’s 4 fossils
-* [ ] Find your island’s DIY Recipe message in a bottle
-* [ ] Find your island’s glowing money spot for 💰1,000 Bells
-  * [ ] Re-plant 💰10,000 Bells in the same spot to grow a tree that will triple your investment
-* [ ] Harvest resources
-  * [ ] Hit rocks for materials (clay, nuggets, stone, and up to ~💰16,000 Bells)
-  * [ ] Fruit trees
-    * [ ] Shake for fruits (grow every three days after they were last picked)
-    * [ ] Chop wood
-  * [ ] Hardwood/Cedar trees (must have at least 15 planted)
-    * [ ] Shake for 2 furniture/miscellaneous items
-    * [ ] Shake for ~💰1,000 Bells (dropped as 100 Bell coins)
-    * [ ] Catch 5 wasps/wasp nests
-    * [ ] Chop wood
+* [ ] Регистрация на остановке Nook (300 миль нука в день после первых 6 дней)
+* [ ] Магазин Nook Stop для новых специальных предметов каталога и рецептов забора
+* [ ] Магазин в Nook's Cranny и the Able Sisters’
+* [ ] Завершите первые 5 миль Nook+ миссий дня за 2 бонуса
+* [ ] Найдите 4 окаменелости вашего острова
+* [ ] Найдите сообщение о рецепте DIY вашего острова в бутылке
+* [ ] Найдите светящееся денежное пятно вашего острова за 1000 диней
+  * [ ] Повторно посадите 10 000 диней в том же месте, чтобы вырастить дерево, которое утроит ваши инвестиции
+* [ ] Ресурсы для сбора урожая
+  * [ ] Ударьте по камням для материалов (глина, самородки, камень и до ~16 000 диней)
+  * [ ] Фруктовые деревья
+    * [ ] Встряхните для фруктов (выращивайте каждые три дня после того, как они были собраны в последний раз)
+    * [ ] Рубить дрова
+  * [ ] Лиственные/кедровые деревья (должно быть посажено не менее 15)
+    * [ ] Встряхните для 2 предметов мебели/разных предметов
+    * [ ] Встряхните для ~💰1000 диней (упало как 100 монет диней)
+    * [ ] Поймать 5 ос/осиные гнезда
+    * [ ] Рубить дрова
 
 ## Персонажи-поситители
-Your island will receive regular visitors a few times a week. All visitors arrive at `5:00 am` and will stay until `5:00 am` the next day unless otherwise stated. <sup><a href="https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/preview#"><code>source</code></a></sup>
+Ваш остров будет принимать постоянных посетителей несколько раз в неделю. Все посетители прибывают в "5:00 утра" и будут оставаться до "5:00 утра" на следующий день, если не указано иное. <sup><a href="https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/preview#"><code>источник</code></a></sup>
 
-| Visitor | Location | Arrives | Departs | Day of week |
+| Поситетель | Местонахождение | Появляется | Уезжает | День недели |
 |---|---|---|---|---|
-| Wisp | roaming cliffs | 8:00 pm 🌙 | | |
-| Sahara | roaming | | midnight 🌙 | |
-| Daisy Mae | roaming | | 12:00 pm ☀️ | Sunday only |
-| CJ | roaming | | | except Saturday |
-| Flick | roaming | | | except Saturday |
-| Gulliver | beach | | | except Saturday |
-| Celeste | roaming | 7:00 pm 🌙<br>nights with shooting stars | | |
-| Kicks | Plaza | | 10:00 pm 🌙 | Monday – Friday |
-| Label | Plaza | | midnight 🌙 | Monday – Friday |
-| K.K. Slider | Plaza | 6:00 am ☀️ | midnight 🌙 | Saturday only |
-| Redd | secret beach | | | _unknown_ |
-| Leif | Plaza | | 10:00 pm 🌙 | _unknown_ |
+| Уисп | бродячие скалы | 8:00 pm 🌙 | | |
+| Сахара | бродит по острову | | ночью 🌙 | |
+| Дейзи Мэй | бродит по острову | | 12:00 pm ☀️ | Только в воскресенье |
+| Си-Джей | бродит по острову | | | кроме субботы |
+| Флик | бродит по острову | | | кроме субботы |
+| Гуливер | пляж | | | кроме субботы |
+| Селеста | бродит по острову | 7:00 pm 🌙<br>ночи с падающими звездами | | |
+| Кикс | Плаза | | 10:00 pm 🌙 | С понедельника по пятницу |
+| Лейбл | Плаза | | midnight 🌙 | С понедельника по пятницу |
+| К.К. Слайдер | Плаза | 6:00 am ☀️ | ночью 🌙 | Только по субботам |
+| Рэдд | Секретный пляж | | | _неизвестно_ |
+| Лайф | Плаза | | 10:00 pm 🌙 | _неизвестно_ |
 
 ### Уисп
-After you complete Wisp’s quest you can choose between two options:
+После завершения квеста Wisp вы можете выбрать один из двух вариантов:
 
-* **Something you don’t have yet**: Wisp will pick a random item that you don’t have in your Nook Shopping list worth ≤1,500 Bells or less. If your catalog is complete, a random item worth ≤1,500 bells. Once your house is upgraded from a tent, you have the following chances of item type:
-  * Furniture: 40%
-  * Wallpaper/Flooring: 24%
-  * Bed: 24%
-  * Clothing: 12%
-* **Something expensive**: Wisp will pick an item with a buying price of ≤10,000 Bells.
+* **Что-то, чего у вас еще нет**: Wisp выберет случайный предмет, которого у вас нет в списке покупок Nook стоимостью ≤1500 колоколов или меньше. Если ваш каталог полон, случайный товар стоимостью ≤1500 колоколов. После того, как ваш дом будет модернизирован из палатки, у вас есть следующие шансы на тип предмета:
+  * Мебель: 40%
+  * Обои/Напольное покрытие: 24%
+  * Кровать: 24%
+  * Одежда: 12%
+* **Что-то ценное**: Уисп выберет товар с ценой покупки ≤10 000 диней.
 
 ### Рэдд
-[Redd](https://animalcrossing.fandom.com/wiki/Redd) sells 4 works art and and 2 furniture items from [Jolly Redd’s Treasure Trawler](https://animalcrossing.fandom.com/wiki/Jolly_Redd%27s_Treasure_Trawler). Each work of art may only be purchased by one player. Each player may only purchase one work of art per day. Purchased art is sent by mail for receipt the following morning. Furniture purchases are unlimited and go into your pocket immediately. 
+[Редд](https://animalcrossing.fandom.com/wiki/Redd) продает 4 произведения искусства и 2 предмета мебели из [Траулера сокровищ Джолли Редда](https://animalcrossing.fandom.com/wiki/Jolly_Redd%27s_Treasure_Trawler). Каждое произведение искусства может быть приобретено только одним игроком. Каждый игрок может приобрести только одно произведение искусства в день. Приобретенное произведение искусства отправляется по почте для получения на следующее утро. Покупки мебели неограниченны и сразу же попадают в ваш карман.
 
-#### Real vs. fake artwork
-Beware, Redd is known to sell forgeries! Any of the 4 works of art for sale may be fake. If you purchase forged artwork, Blathers will not accept it into the museum and the Nooklings will not buy it back from you. 
-* [Polygon guide on real vs. fake artwork](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/4/23/21231433/redd-jolly-museum-art-fake-real-forgeries-list-complete-painting-statue)
-* [Poster showing real vs. fake artwork](https://i.redd.it/dq65xhpnlgv41.jpg)
+#### Реальные и поддельные произведения искусства
+Будьте осторожны, Редд, как известно, продает подделки! Любое из 4 произведений искусства, выставленных на продажу, может быть поддельным. Если вы купите поддельное произведение искусства, Блатерс не примет его в музей, и Нуклинги не выкупят его у вас.
+* [Руководство по полигонам по реальному и поддельному artwork](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/4/23/21231433/redd-jolly-museum-art-fake-real-forgeries-list-complete-painting-statue)
+* [Плакат, показывающий реальные и поддельные произведения искусства](https://i.redd.it/dq65xhpnlgv41.jpg)
 
 #### Первый визит
-* In order for Redd to appear, you need to have [donated at least 60 items to the museum](https://twitter.com/_Ninji/status/1253290680731959299). 
-* On Redd’s first visit, you will find him roaming the island. On subsequent visits, Redd will stay in his docked boat. 
-* After purchasing your first work of art from Redd, Blathers will upgrade the Museum to include an art gallery. 
+* Для того, чтобы Redd появился, вам необходимо [пожертвовать музею не менее 60 предметов](https://twitter.com/_Ninji/status/1253290680731959299).
+* Во время первого визита Редда вы найдете его бродящим по острову. Во время последующих визитов Редд останется в своей пришвартованной лодке.
+* После покупки вашего первого произведения искусства у Redd, Blathers обновит Музей, включив в него художественную галерею.
 
 ## Долговечность инструментов
-Tools only wear down when your action is successful. Ladders, Vaulting Poles, and Wands will not break. Watering empty land decreases a Watering Can’s durability by 10% of its use on flower(s). <sup>[`source`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/31/21194209/durability-list-broken-breaking-shovel-axe-fishing-rod-watering-can-slingshot-bug-net)</sup>
+Инструменты изнашиваются только тогда, когда ваши действия успешны. Лестницы, Шесты для прыжков и Палочки не сломаются. Полив пустой земли снижает долговечность лейки на 10% от ее использования на цветках. <sup>[`источник`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/31/21194209/durability-list-broken-breaking-shovel-axe-fishing-rod-watering-can-slingshot-bug-net)</sup>
 
 <details open>
   <summary>
-    <strong>Standard tools</strong> (includes the Outdoor and Colorful variants)
+    <strong>Стандартные инструменты</strong> (Включая уличные и разноцветные варианты)
   </summary>
 
 | 🧰 Tool | 💔 Break point | ❌ Loses durability | ➖ No effect |
@@ -278,7 +278,7 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
 
 <details open>
   <summary>
-    <strong>Gold tools</strong>
+    <strong>Золотые инструменты</strong>
   </summary>
 
 | 🧰 Tool | 💔 Break point | ℹ️ How to obtain recipe |
@@ -293,7 +293,7 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
 
 <details>
   <summary>
-    <strong>Flimsy tools</strong>
+    <strong>Непрочные инструменты</strong>
   </summary>
   
 | 🧰 Tool | ⚰️ Break point | ❌ Loses durability | ➖ No effect |
@@ -307,4 +307,4 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
 
 ---
 
-💖 Feel free to submit a PR to add or amend content to this README! <img src="https://user-images.githubusercontent.com/221550/79901007-23366580-83dd-11ea-9431-41b8d82c7aba.png" height="24" width="24" valign="bottom">
+💖 Не стесняйтесь отправлять PR для добавления или изменения контента в этот README! <img src="https://user-images.githubusercontent.com/221550/79901007-23366580-83dd-11ea-9431-41b8d82c7aba.png" height="24" width="24" valign="bottom">
