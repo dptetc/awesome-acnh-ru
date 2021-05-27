@@ -4,7 +4,8 @@
     Awesome ACNH
   </h1>
   <p>
-    Только лучшие информационные ресурсы для игроков Animal Crossing: New Horizons.
+    Только лучшие информационные ресурсы для игроков Animal Crossing: New Horizons.</br>
+    Вольный перевод с оригинала (форк из https://github.com/skullface/awesome-acnh)
   </p>
 
   [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
@@ -66,40 +67,40 @@
 * [**AC Tune Maker**](https://ac-tune-maker.aikats.us/) [:octocat:](https://github.com/walfie/ac-tune-maker): Веб-приложение, чтобы легко создавать и делиться островной мелодией.
 
 ### Gardening
-* [**Garden science FAQ**](https://docs.google.com/document/d/1XPAaPUvGMWQ-n5sBLV3jM78QKxqKjiGCzx5HnD7K5RI/preview): Guide containing the most up-to-date and accurated crowdsourced information regarding flower breeding. It also shows you which popular tutorial graphics are outdated or inacurrate by their findings.
-* [**Flower breeding simulator**](https://gardenscience.ac/): In-browser simulator of hybrid possibilities determined by genetics.
-* [**Flower research data + link hubs**](https://docs.google.com/spreadsheets/d/1rbYbQ0i3SuTu30KTma5dO4uuJWr_SjOZXA1l4UOIHWo/edit?usp=sharing): Spreadsheet containing links to information sanctioned by the above researchers and collaborators and the raw + parsed data the analyses are based on.
-* [**Flower garden planner**](https://nubleh.github.io/flowerplanner/) [:octocat:](https://github.com/nubleh/flowerplanner): Plot out your flower gardens with this in-browser visualizing tool.
+* [**Garden science FAQ**](https://docs.google.com/document/d/1XPAaPUvGMWQ-n5sBLV3jM78QKxqKjiGCzx5HnD7K5RI/preview): Руководство, содержащее самую актуальную и точную краудсорсинговую информацию о разведении цветов. Он также показывает, какие популярные учебные графики устарели или не соответствуют их результатам.
+* [**Flower breeding simulator**](https://gardenscience.ac/): Внутрибраузерный симулятор гибридных возможностей,определяемых генетикой цветов.
+* [**Flower research data + link hubs**](https://docs.google.com/spreadsheets/d/1rbYbQ0i3SuTu30KTma5dO4uuJWr_SjOZXA1l4UOIHWo/edit?usp=sharing): Электронная таблица, содержащая ссылки на информацию, санкционированную вышеупомянутыми исследователями и сотрудниками, а также необработанные + проанализированные данные, на которых основан анализ.
+* [**Flower garden planner**](https://nubleh.github.io/flowerplanner/) [:octocat:](https://github.com/nubleh/flowerplanner): Планируйте свои цветники с помощью этого инструмента визуализации в браузере.
 
 ### Friendship
-* [**Friendship mechanics**](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/preview?pru=AAABchTeeYc*uM6CbRu9LO7ZlazWYOZxLA): In-depth datamined guide to gaining favor with your villagers.
-* [**Lost item guide**](https://docs.google.com/spreadsheets/d/1dCaPo6N-9XDwOQYMmvv9R7HPqvXPGUF5B6frZs0fcms/edit#gid=0): How to complete the lost item quest for best results.
-* [**Villager gift checker**](https://nubleh.github.io/favchecker/) [:octocat:](https://github.com/nubleh/favchecker): Mobile-first web app to see if a villager will love a specific clothing item as gift based on their favorite color and personal style.
-* [**Villager gift finder**](https://nookplaza.net/tools): Interactive tool see clothing items your villager will really appreciate based on their favorite color and personal style.
+* [**Friendship mechanics**](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/preview?pru=AAABchTeeYc*uM6CbRu9LO7ZlazWYOZxLA): Подробное руководство по сбору данных, чтобы завоевать расположение ваших жителей.
+* [**Lost item guide**](https://docs.google.com/spreadsheets/d/1dCaPo6N-9XDwOQYMmvv9R7HPqvXPGUF5B6frZs0fcms/edit#gid=0): Как завершить поиск потерянного предмета для достижения наилучших результатов.
+* [**Villager gift checker**](https://nubleh.github.io/favchecker/) [:octocat:](https://github.com/nubleh/favchecker): Мобильное-первое веб-приложение, чтобы узнать, понравится ли сельчанину конкретный предмет одежды в качестве подарка, основанный на их любимом цвете и личном стиле.
+* [**Villager gift finder**](https://nookplaza.net/tools): Интерактивный инструмент смотрите предметы одежды, которые ваш односельчанин действительно оценит, основываясь на их любимом цвете и личном стиле.
 
 ### Trading/Catalog
-<sup>⚠️ <em>Potential spoiler content in the links below!</em></sup>
-* [**Nook Exchange**](https://nook.exchange/): Visual index of all game items, with the ability to create an account to share your catalog/wishlist.
-* [**VillagerDB**](https://villagerdb.com/) [:octocat:](https://github.com/jefflomacy/villagerdb): Visual index of all game items, with the ability to create an account to share your catalog/wishlist, and create additional lists.
-* [**Nook Market**](https://nook.market): Auctionhouse and marketplace to buy, sell, or bid on items for Bells or Nook Miles Tickets.
-* [**DodoCodes**](https://dodocodes.com/): Tour other player’s islands for specific items, recipes, villagers, or just for inspiration.
-* [**r/ACTrade**](https://www.reddit.com/r/ACTrade/): Tightly-moderated community facilitation of items, recipe, and villager trades.
-* [**r/ACVillager**](https://www.reddit.com/r/ACVillager/): Tightly-moderated community facilitation of villager trades or giveaways.
+<sup>⚠️ <em>Контент, доступный по ссылкам ниже, потенциально содержжит <b>СПОЙЛЕРЫ</b>!</em></sup>
+* [**Nook Exchange**](https://nook.exchange/): Визуальный индекс всех игровых предметов с возможностью создания учетной записи для обмена каталогом/списком желаний.
+* [**VillagerDB**](https://villagerdb.com/) [:octocat:](https://github.com/jefflomacy/villagerdb): Визуальный индекс всех игровых предметов с возможностью создания учетной записи для обмена каталогом/списком желаний и создания дополнительных списков.
+* [**Nook Market**](https://nook.market): Аукционный дом и рынок, чтобы купить, продать или сделать ставку на предметы для билетов на колокола или мили.
+* [**DodoCodes**](https://dodocodes.com/): Путешествуйте по островам других игроков за конкретными предметами, рецептами, жителями острова или просто для вдохновения.
+* [**r/ACTrade**](https://www.reddit.com/r/ACTrade/): Строго модерируемое сообщество облегчает торговлю предметами, рецептами и жителями.
+* [**r/ACVillager**](https://www.reddit.com/r/ACVillager/): Жестко модерируемое сообщество, облегчающее торговлю жителями или раздачу подарков.
 
 ### Turnips and the Stalk Market
-* [**Turnip Prophet**](https://turnipprophet.io) [:octocat:](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo): Sophisticated Stalk Market predictor to track your price history with a probability percentage. [<kbd>Sponsor</kbd> this project](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo)! `⭐️ strongly recommended` 
-* [**Stalks.io**](https://stalks.io): Beautiful Stalk Market predictor to track your profits and price history.
-* [**r/ACTurnips**](https://www.reddit.com/r/ACTurnips): Tightly-moderated community facilitation of turnip sales.
-* [**Turnip Exchange**](https://turnip.exchange/): Queuing web app to host visitors for turnip sales and any other tour.
-* [**Ac-Turnip**](https://ac-turnip.com/): ACNH Turnip Calculator Responsive Web App.
+* [**Turnip Prophet**](https://turnipprophet.io) [:octocat:](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo): Сложный предиктор стебля рынка для отслеживания вашей ценовой истории с вероятностью в процентах. [<kbd>Спонсор</kbd> этого проекта](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo)! `⭐️ настоятельно рекомендуем` 
+* [**Stalks.io**](https://stalks.io): Красивый предиктор рынка стебля, чтобы отслеживать вашу прибыль и историю цен.
+* [**r/ACTurnips**](https://www.reddit.com/r/ACTurnips): Жестко модерируемое сообщество по содействию продажам репы.
+* [**Turnip Exchange**](https://turnip.exchange/): Веб-приложение для размещения посетителей для продажи репы и любого другого тура.
+* [**Ac-Turnip**](https://ac-turnip.com/): ACNH Адаптивное веб-приложение как калькулятор Репы.
 
 ### Layout
-* [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Plot out your island layout via mini-map in the browser.
-* [**Island Planner**](https://bobacupcake.itch.io/island-planner): Plot out your island’s building layouts and terraforming designs in a 3D editor in the browser or downloadable desktop app.
-* [**Furniture luck + Feng Shui guide**](https://www.youtube.com/watch?v=BYegwU4uucA): How to decorate your house to maximize your luck in game.
-* [**r/AnimalCrossingTours**](https://www.reddit.com/r/AnimalCrossingTours/): Community inspiration hub for island and room layouts.
+* [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Составьте план вашего острова с помощью мини-карты в браузере.
+* [**Island Planner**](https://bobacupcake.itch.io/island-planner): Нарисуйте планы зданий и проекты терраформирования вашего острова в 3D-редакторе в браузере или загружаемом настольном приложении.
+* [**Furniture luck + Feng Shui guide**](https://www.youtube.com/watch?v=BYegwU4uucA): Как украсить свой дом, чтобы максимизировать свою удачу в игре.
+* [**r/AnimalCrossingTours**](https://www.reddit.com/r/AnimalCrossingTours/): Центр вдохновения сообщества для планировки островов и комнат.
 
-## Controls
+## Управление
 * In your pocket, hold <kbd>A</kbd> on an item to grab and reorder
 * In your pocket, hold <kbd>A</kbd> on an item to grab it and place it on top of the same item to create a new stack. (For example, take out 3 10,000 Bell bags from your wallet, then grab and drop two of them on top of another to create one 30,000 Bell bag.) 
 * Hold <kbd>B</kbd> to run
@@ -110,7 +111,7 @@
 * Press <kbd>Y</kbd> to fill in a hole without using your shovel
 * Press <kbd>A</kbd> in front of certain furniture/housewares to interact with them
 
-## Tips
+## Подсказки
 
 ### General gameplay, quirks, and delights
 * If you need to craft something on your island but you’re far from one of your own benches, try popping into one of your villager’s houses to see if their DIY Craft bench is out, or use the one by Tom Nook inside Resident Services!
