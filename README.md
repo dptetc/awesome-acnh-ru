@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/221550/79898529-64c51180-83d9-11ea-8c7c-cb266ddd0999.png" width="60" height="60">
+  <img src="https://user-images.githubusercontent.com/2005369/119831696-3253e500-bf06-11eb-93d1-6a52eb8f080c.png" width="192" height="192">
   <h1>
     Awesome ACNH
   </h1>
   <p>
-    Only the best resources for players of Nintendo’s Animal Crossing: New Horizons.
+    Только лучшие информационные ресурсы для игроков Animal Crossing: New Horizons.
   </p>
 
   [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
@@ -12,33 +12,33 @@
 
 ---
 
-## Contents
-* [Resources and guides](#resources-and-guides)
-  * [General information](#general-information)
-  * [Gameplay](#gameplay)
-  * [Custom designs](#custom-designs)
-  * [Island tune](#island-tune)
-  * [Gardening](#gardening)
-  * [Friendship](#friendship)
-  * [Trading/Catalog](#tradingcatalog)
-  * [Turnips and the Stalk Market](#turnips-and-the-stalk-market)
-  * [Layout](#layout)
-* [Controls](#controls)
-* [Tips](#tips)
-  * [General gameplay, quirks, and delights](#general-gameplay-quirks-and-delights)
-    * [Flora](#flora)
-    * [Time](#time)
-    * [Eating](#eating)
-    * [Music](#music)
-    * [Clothing and designs](#clothing-and-designs)
-  * [Visiting other islands](#visiting-other-islands)
-  * [Friendship with villagers](#friendship-with-villagers)
-* [Timing](#timing)
-  * [Dailies](#dailies)
-* [NPC visitors](#npc-visitors)
-  * [Wisp](#wisp)
-  * [Redd](#redd)
-* [Tool durability](#tool-durability)
+## Оглавление
+* [Ресурсы и руководства](#resources-and-guides)
+  * [Основная информация](#general-information)
+  * [Геймплей](#gameplay)
+  * [Свой дизайн](#custom-designs)
+  * [Музыка острова](#island-tune)
+  * [Садоводство](#gardening)
+  * [Дружба](#friendship)
+  * [Торговля/Каталоги](#tradingcatalog)
+  * [Рынок Реп и Стебелй](#turnips-and-the-stalk-market)
+  * [Схема](#layout)
+* [Управление](#controls)
+* [Подсказки](#tips)
+  * [Основной геймплей, причуды, и наслаждения](#general-gameplay-quirks-and-delights)
+    * [Флора](#flora)
+    * [Время](#time)
+    * [Питание](#eating)
+    * [Музыка](#music)
+    * [Одежда и дизайны](#clothing-and-designs)
+  * [Посещение других островов](#visiting-other-islands)
+  * [Дружба с жителями](#friendship-with-villagers)
+* [Тайминги](#timing)
+  * [Ежедневное](#dailies)
+* [Персонажи-Поситители](#npc-visitors)
+  * [Уисп](#wisp)
+  * [Рэдд](#redd)
+* [Долговечность инструментов](#tool-durability)
 
 ---
 
