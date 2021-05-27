@@ -50,8 +50,10 @@
 
 ### Gameplay
 * [**Travel Guide**](https://jeffreykuiken.nl/acnhtg/): iOS app to serve as your pocket companion while playing; listing bugs and fish available to catch _right now_, with location, size and sale prices; inventory of villagers and all items including fossils, art, K.K. Slider songs, and flowers. `⭐️ strongly recommended` 
+* [**AC Helper**](https://apps.apple.com/us/app/ac-helper/id1508764244?ls=1) [:octocat:](https://github.com/Dimillian/ACHNBrowserUI): A free iOS app available on the app store for iPhone, iPad and MacOS. Configureable dashboard to track your fishes, bugs, collection progress, active events, daily tasks, todos and much more. Music player for K.K. Slider's songs - plays when app is in background! Full catalog browser with filter, sorting and search. Villagers list. Spotlight support for fishes, bugs, fossils and art. iCloud sync for collection progress, lists, tasks and todos.
 * [**Critterpedia (1)**](https://critterpedia.moppler.co.uk) [:octocat:](https://github.com/Moppler/Critterpedia): Mobile-first web app listing bugs and fish available to catch _right now_, with location and sale price.
 * [**Critterpedia (2)**](https://critterpedia.nharox.com) (**in Beta**) Another Critterpedia tool with a grid format. Also shows Fossils and Art. You can select the items you have already found/donated and have them saved in the webapp to the Collection tab.
+* [**Nook Services**](https://nook.services/) [:octocat:](https://github.com/maael/nook): Website listing bugs, fish, fossils, art, custom designs, and DIY recipes, with lots of filtering and search options including marking and saving to an account. Very complex with lots of features.
 * [**Mystery Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Nook Miles island layouts and the probability of landing on them.
 
 ### Custom designs
@@ -89,6 +91,7 @@
 * [**Stalks.io**](https://stalks.io): Beautiful Stalk Market predictor to track your profits and price history.
 * [**r/ACTurnips**](https://www.reddit.com/r/ACTurnips): Tightly-moderated community facilitation of turnip sales.
 * [**Turnip Exchange**](https://turnip.exchange/): Queuing web app to host visitors for turnip sales and any other tour.
+* [**Ac-Turnip**](https://ac-turnip.com/): ACNH Turnip Calculator Responsive Web App.
 
 ### Layout
 * [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Plot out your island layout via mini-map in the browser.
