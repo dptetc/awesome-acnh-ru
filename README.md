@@ -21,7 +21,7 @@
   * [Музыка острова](#музыка-острова)
   * [Садоводство](#садоводство)
   * [Дружба](#дружба)
-  * [Торговля/Каталоги](#торговля-и-каталоги)
+  * [Торговля и каталоги](#торговля-и-каталоги)
   * [Рынок реп и стебелй](#рынок-реп-и-стебелй)
   * [Схема](#схема)
 * [Управление](#управление)
@@ -31,12 +31,12 @@
     * [Время](#время)
     * [Питание](#питание)
     * [Музыка](#музыка)
-    * [Одежда и дизайны](#одежда-и-дизайны)
+    * [Одежда и дизайн](#одежда-и-дизайн)
   * [Посещение других островов](#посещение-других-островов)
   * [Дружба с жителями](#дружба-с-жителями)
 * [Тайминги](#тайминги)
   * [Ежедневное](#ежедневное)
-* [Персонажи-Поситители](#персонажи-поситители)
+* [Персонажи-поситители](#персонажи-поситители)
   * [Уисп](#уисп)
   * [Рэдд](#рэдд)
 * [Долговечность инструментов](#долговечность-инструментов)
@@ -57,28 +57,28 @@
 * [**Nook Services**](https://nook.services/) [:octocat:](https://github.com/maael/nook): Веб-сайт со списком жуков, рыб, окаменелостей, произведений искусства, пользовательских дизайнов и рецептов "Сделай сам" с множеством опций фильтрации и поиска, включая маркировку и сохранение в учетной записи. Очень крупный, с множеством функций.
 * [**Mystery Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): Все возможные варианты расположения островов (за Мили Нука) и вероятность посадки на них.
 
-### Custom designs
+### Свой дизайн
 * [**Pattern Editor**](https://acpatterns.com/editor): Используйте браузер для создания факсимильной копии внутриигрового редактора шаблонов (или загрузки и преобразования изображения!) и получения QR-кода NookLink.
 * [**AC Custom Island Design**](https://discord.gg/uQFnKRH): Сервер Discord, доступный только для чтения, содержит тщательно классифицированный каталог представленных пользователями проектов со всего Интернета.
 * [**r/acqr**](http://reddit.com/r/acqr): Проекты сообщества для киоска сестер Эйбл.
 * [**@acnh_patterns**](https://www.instagram.com/acnh_patterns): Куратор Instagram-аккаунта сообщества по дизайну киоска для сестер Эйбл.
 
-### Island tune
+### Музыка острова
 * [**AC Tune Maker**](https://ac-tune-maker.aikats.us/) [:octocat:](https://github.com/walfie/ac-tune-maker): Веб-приложение, чтобы легко создавать и делиться островной мелодией.
 
-### Gardening
+### Садоводство
 * [**Garden science FAQ**](https://docs.google.com/document/d/1XPAaPUvGMWQ-n5sBLV3jM78QKxqKjiGCzx5HnD7K5RI/preview): Руководство, содержащее самую актуальную и точную краудсорсинговую информацию о разведении цветов. Он также показывает, какие популярные учебные графики устарели или не соответствуют их результатам.
 * [**Flower breeding simulator**](https://gardenscience.ac/): Внутрибраузерный симулятор гибридных возможностей,определяемых генетикой цветов.
 * [**Flower research data + link hubs**](https://docs.google.com/spreadsheets/d/1rbYbQ0i3SuTu30KTma5dO4uuJWr_SjOZXA1l4UOIHWo/edit?usp=sharing): Электронная таблица, содержащая ссылки на информацию, санкционированную вышеупомянутыми исследователями и сотрудниками, а также необработанные + проанализированные данные, на которых основан анализ.
 * [**Flower garden planner**](https://nubleh.github.io/flowerplanner/) [:octocat:](https://github.com/nubleh/flowerplanner): Планируйте свои цветники с помощью этого инструмента визуализации в браузере.
 
-### Friendship
+### Дружба
 * [**Friendship mechanics**](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/preview?pru=AAABchTeeYc*uM6CbRu9LO7ZlazWYOZxLA): Подробное руководство по сбору данных, чтобы завоевать расположение ваших жителей.
 * [**Lost item guide**](https://docs.google.com/spreadsheets/d/1dCaPo6N-9XDwOQYMmvv9R7HPqvXPGUF5B6frZs0fcms/edit#gid=0): Как завершить поиск потерянного предмета для достижения наилучших результатов.
 * [**Villager gift checker**](https://nubleh.github.io/favchecker/) [:octocat:](https://github.com/nubleh/favchecker): Мобильное-первое веб-приложение, чтобы узнать, понравится ли сельчанину конкретный предмет одежды в качестве подарка, основанный на их любимом цвете и личном стиле.
 * [**Villager gift finder**](https://nookplaza.net/tools): Интерактивный инструмент смотрите предметы одежды, которые ваш односельчанин действительно оценит, основываясь на их любимом цвете и личном стиле.
 
-### Trading/Catalog
+### Торговля и каталоги
 <sup>⚠️ <em>Контент, доступный по ссылкам ниже, потенциально содержжит <b>СПОЙЛЕРЫ</b>!</em></sup>
 * [**Nook Exchange**](https://nook.exchange/): Визуальный индекс всех игровых предметов с возможностью создания учетной записи для обмена каталогом/списком желаний.
 * [**VillagerDB**](https://villagerdb.com/) [:octocat:](https://github.com/jefflomacy/villagerdb): Визуальный индекс всех игровых предметов с возможностью создания учетной записи для обмена каталогом/списком желаний и создания дополнительных списков.
@@ -87,14 +87,14 @@
 * [**r/ACTrade**](https://www.reddit.com/r/ACTrade/): Строго модерируемое сообщество облегчает торговлю предметами, рецептами и жителями.
 * [**r/ACVillager**](https://www.reddit.com/r/ACVillager/): Жестко модерируемое сообщество, облегчающее торговлю жителями или раздачу подарков.
 
-### Turnips and the Stalk Market
+### Рынок реп и стебелй
 * [**Turnip Prophet**](https://turnipprophet.io) [:octocat:](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo): Сложный предиктор стебля рынка для отслеживания вашей ценовой истории с вероятностью в процентах. [<kbd>Спонсор</kbd> этого проекта](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo)! `⭐️ настоятельно рекомендуем` 
 * [**Stalks.io**](https://stalks.io): Красивый предиктор рынка стебля, чтобы отслеживать вашу прибыль и историю цен.
 * [**r/ACTurnips**](https://www.reddit.com/r/ACTurnips): Жестко модерируемое сообщество по содействию продажам репы.
 * [**Turnip Exchange**](https://turnip.exchange/): Веб-приложение для размещения посетителей для продажи репы и любого другого тура.
 * [**Ac-Turnip**](https://ac-turnip.com/): ACNH Адаптивное веб-приложение как калькулятор Репы.
 
-### Layout
+### Схема
 * [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Составьте план вашего острова с помощью мини-карты в браузере.
 * [**Island Planner**](https://bobacupcake.itch.io/island-planner): Нарисуйте планы зданий и проекты терраформирования вашего острова в 3D-редакторе в браузере или загружаемом настольном приложении.
 * [**Furniture luck + Feng Shui guide**](https://www.youtube.com/watch?v=BYegwU4uucA): Как украсить свой дом, чтобы максимизировать свою удачу в игре.
@@ -113,36 +113,36 @@
 
 ## Подсказки
 
-### General gameplay, quirks, and delights
+## #Основной геймплей, причуды, и наслаждения
 * If you need to craft something on your island but you’re far from one of your own benches, try popping into one of your villager’s houses to see if their DIY Craft bench is out, or use the one by Tom Nook inside Resident Services!
 * If you are physically sharing your Nintendo Switch, the first account to play the game owns the island and dictates initial progress.
 * If you want to get rid of an item in your pocket and cannot re-sell it or give it away, you can permanently throw them out in a garbage can if you have one placed in your home or outside.
 
-#### Flora
+#### Флора
 * Palm trees only grow in sand (either from your beaches or a sand path via the Island Designer NookPhone app).
 * You cannot give uprooted flowers or trees to another villager or player, nor store them in your house. 
 * You may plant uprooted flowers in your pocket on another player’s island, even if you aren’t Best Friends.
 * Trees can be uprooted by eating food and using your shovel to dig up the tree.
 * Trees need at least 1 empty space in all directions around them to grow. Once a tree is fully grown, it can be moved to be closer to other objects (other trees, furniture, flowers, fencing, etc.) by uprooting it and replanting it.
 
-#### Time
+#### Время
 * Weather changes only occur on the hour.
 * The exception to a new day’s changes occuring at 5:00 am (see: [Timing](#timing)) are critters appearing or disappearing at the start of a new month. These changes occur at midnight when the local date changes.
 
-#### Eating
+#### Питание
 * If you eat food before you hit a stone, it will break. The stone will reappear a new area the following day.
 * If you’ve eaten more food than you’d like, try sitting on a toilet.
 
-#### Music
+#### Музыка
 * If you place more than one stereo in a room in your house, it will amplify the registered song.
 * Each stereo placed outside can play a different registered song, but you‘ll only hear the closest one. Your villagers will pay attention to music they hear!
 * Your villagers will be interested in instruments placed outside.
 
-#### Clothing and designs
+#### Одежда и дизайн
 * If you create outfits with a Wand, the wearable items in the outfits are “stored” in the Wand and are unusable in other outfits.
 * The following items retain their most recent customization even after the art in the custom design slot is deleted or changed: island flag, phone case, face paint.
 
-### Visiting other islands
+### Посещение других островов
 * Download the [Nintendo Switch Online app](https://www.nintendo.com/switch/online-service/app/) for your phone to use the NookLink feature to type messages in-game using your phone’s keyboard instead of the game controller.
 * Don’t run through flowers. It takes time for the blooms to grow back. Be sure to walk wherever you see flowers.
 * Don’t leave by pressing the <kbd>-</kbd> button. It will interrupt the progress of every other visitor’s interactions. 
@@ -155,7 +155,7 @@
 * If you’re visiting an island for a particular recipe a villager is crafting at their DIY bench, check the map on your NookPhone to see where their house is!
 * You cannot invite a camper on another island to move into your island.
 
-### Friendship with villagers
+### Дружба с жителями
 * Friendship rankings do not correlate with move-out requests, which are randomized. <sup>[`source`](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/edit#heading=h.kmdduxio23l3)</sup>
 * Certain actions will raise or lower your friendship ranking with your villagers. <sup>[`source`](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/edit#heading=h.kmdduxio23l3)</sup>
   * **Raise friendship ranking**
@@ -173,7 +173,7 @@
     * Accept a request but fail to carry it out
 * For much more information on how to affect friendship and what friendship means in the game, see the links in the [Friendship](#friendship) resources category.
 
-## Timing
+## Тайминги
 Time is determined by your Nintendo Switch’s local time. Though midnight local time changes the date, a new “day” in ACNH officially starts at 🕔 **`5:00 am`**, when daily announcements are made on your island, dailies “refill”, visitors arrive/leave, and projects make progress.
 
 #### ☀️ Daytime, 5:00 am — 5:59 pm
@@ -194,7 +194,7 @@ Time is determined by your Nintendo Switch’s local time. Though midnight local
 * Certain villagers are more or less active
 * Balloon presents switch sides by spawning from the opposite beach
 
-### Dailies
+### Ежедневное
 Every day starting at 🕔 **`5:00 am`**, you can accomplish these tasks all over again: <sup>[`source 1`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21162973/day-dailies-fossils-money-rock-bells-furniture) [`source 2`](https://c.eev.ee/acnh-companion/#tips)</sup>
 
 * [ ] Check in at the Nook Stop (300 Nook Miles per day after your first 6 days)
@@ -216,7 +216,7 @@ Every day starting at 🕔 **`5:00 am`**, you can accomplish these tasks all ove
     * [ ] Catch 5 wasps/wasp nests
     * [ ] Chop wood
 
-## NPC visitors
+## Персонажи-поситители
 Your island will receive regular visitors a few times a week. All visitors arrive at `5:00 am` and will stay until `5:00 am` the next day unless otherwise stated. <sup><a href="https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/preview#"><code>source</code></a></sup>
 
 | Visitor | Location | Arrives | Departs | Day of week |
@@ -234,7 +234,7 @@ Your island will receive regular visitors a few times a week. All visitors arriv
 | Redd | secret beach | | | _unknown_ |
 | Leif | Plaza | | 10:00 pm 🌙 | _unknown_ |
 
-### Wisp
+### Уисп
 After you complete Wisp’s quest you can choose between two options:
 
 * **Something you don’t have yet**: Wisp will pick a random item that you don’t have in your Nook Shopping list worth ≤1,500 Bells or less. If your catalog is complete, a random item worth ≤1,500 bells. Once your house is upgraded from a tent, you have the following chances of item type:
@@ -244,7 +244,7 @@ After you complete Wisp’s quest you can choose between two options:
   * Clothing: 12%
 * **Something expensive**: Wisp will pick an item with a buying price of ≤10,000 Bells.
 
-### Redd
+### Рэдд
 [Redd](https://animalcrossing.fandom.com/wiki/Redd) sells 4 works art and and 2 furniture items from [Jolly Redd’s Treasure Trawler](https://animalcrossing.fandom.com/wiki/Jolly_Redd%27s_Treasure_Trawler). Each work of art may only be purchased by one player. Each player may only purchase one work of art per day. Purchased art is sent by mail for receipt the following morning. Furniture purchases are unlimited and go into your pocket immediately. 
 
 #### Real vs. fake artwork
@@ -252,12 +252,12 @@ Beware, Redd is known to sell forgeries! Any of the 4 works of art for sale may 
 * [Polygon guide on real vs. fake artwork](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/4/23/21231433/redd-jolly-museum-art-fake-real-forgeries-list-complete-painting-statue)
 * [Poster showing real vs. fake artwork](https://i.redd.it/dq65xhpnlgv41.jpg)
 
-#### First visit
+#### Первый визит
 * In order for Redd to appear, you need to have [donated at least 60 items to the museum](https://twitter.com/_Ninji/status/1253290680731959299). 
 * On Redd’s first visit, you will find him roaming the island. On subsequent visits, Redd will stay in his docked boat. 
 * After purchasing your first work of art from Redd, Blathers will upgrade the Museum to include an art gallery. 
 
-## Tool durability
+## Долговечность инструментов
 Tools only wear down when your action is successful. Ladders, Vaulting Poles, and Wands will not break. Watering empty land decreases a Watering Can’s durability by 10% of its use on flower(s). <sup>[`source`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/31/21194209/durability-list-broken-breaking-shovel-axe-fishing-rod-watering-can-slingshot-bug-net)</sup>
 
 <details open>
