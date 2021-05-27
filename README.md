@@ -13,57 +13,57 @@
 ---
 
 ## Оглавление
-* [Ресурсы и руководства](#resources-and-guides)
-  * [Основная информация](#general-information)
-  * [Геймплей](#gameplay)
-  * [Свой дизайн](#custom-designs)
-  * [Музыка острова](#island-tune)
-  * [Садоводство](#gardening)
-  * [Дружба](#friendship)
-  * [Торговля/Каталоги](#tradingcatalog)
-  * [Рынок Реп и Стебелй](#turnips-and-the-stalk-market)
-  * [Схема](#layout)
-* [Управление](#controls)
-* [Подсказки](#tips)
-  * [Основной геймплей, причуды, и наслаждения](#general-gameplay-quirks-and-delights)
-    * [Флора](#flora)
-    * [Время](#time)
-    * [Питание](#eating)
-    * [Музыка](#music)
-    * [Одежда и дизайны](#clothing-and-designs)
-  * [Посещение других островов](#visiting-other-islands)
-  * [Дружба с жителями](#friendship-with-villagers)
-* [Тайминги](#timing)
-  * [Ежедневное](#dailies)
-* [Персонажи-Поситители](#npc-visitors)
-  * [Уисп](#wisp)
-  * [Рэдд](#redd)
-* [Долговечность инструментов](#tool-durability)
+* [Ресурсы и руководства](#ресурсы-и-руководства)
+  * [Основная информация](#основная-информация)
+  * [Геймплей](#геймплей)
+  * [Свой дизайн](#свой-дизайн)
+  * [Музыка острова](#музыка-острова)
+  * [Садоводство](#садоводство)
+  * [Дружба](#дружба)
+  * [Торговля/Каталоги](#торговля-и-каталоги)
+  * [Рынок реп и стебелй](#рынок-реп-и-стебелй)
+  * [Схема](#схема)
+* [Управление](#управление)
+* [Подсказки](#подсказки)
+  * [Основной геймплей, причуды, и наслаждения](#основной-геймплей-причуды-и-наслаждения)
+    * [Флора](#флора)
+    * [Время](#время)
+    * [Питание](#питание)
+    * [Музыка](#музыка)
+    * [Одежда и дизайны](#одежда-и-дизайны)
+  * [Посещение других островов](#посещение-других-островов)
+  * [Дружба с жителями](#дружба-с-жителями)
+* [Тайминги](#тайминги)
+  * [Ежедневное](#ежедневное)
+* [Персонажи-Поситители](#персонажи-поситители)
+  * [Уисп](#уисп)
+  * [Рэдд](#рэдд)
+* [Долговечность инструментов](#долговечность-инструментов)
 
 ---
 
-## Resources and guides
+## Ресурсы и руководства
 
-### General information
-* [**Polygon guides**](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21170563/tips-tricks-walkthrough-bells-nook-miles-tickets-mileage-rewards-turnips): Excellent guides for most everything you need to know, including a First and Second Week walkthrough. `⭐️ strongly recommended` 
-* [**Transcribed guidebook**](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/preview#): Community crowd-sourced document sharing facts from Nintendo’s official guide. _⚠️ Beware of spoilers_!
+### Основная информация
+* [**Polygon guides**](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21170563/tips-tricks-walkthrough-bells-nook-miles-tickets-mileage-rewards-turnips): Отличные руководства для большинства вещей, которые вам нужно знать, включая пошаговое руководство на первую и вторую неделю. `⭐️ настоятельно рекомендуем` 
+* [**Transcribed guidebook**](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/preview#): Сообщество краудсорсинговых документов делится фактами из официального руководства Nintendo. _⚠️ Остерегайтесь <b>СПОЙЛЕРОВ</b>_!
 
-### Gameplay
-* [**Travel Guide**](https://jeffreykuiken.nl/acnhtg/): iOS app to serve as your pocket companion while playing; listing bugs and fish available to catch _right now_, with location, size and sale prices; inventory of villagers and all items including fossils, art, K.K. Slider songs, and flowers. `⭐️ strongly recommended` 
-* [**AC Helper**](https://apps.apple.com/us/app/ac-helper/id1508764244?ls=1) [:octocat:](https://github.com/Dimillian/ACHNBrowserUI): A free iOS app available on the app store for iPhone, iPad and MacOS. Configureable dashboard to track your fishes, bugs, collection progress, active events, daily tasks, todos and much more. Music player for K.K. Slider's songs - plays when app is in background! Full catalog browser with filter, sorting and search. Villagers list. Spotlight support for fishes, bugs, fossils and art. iCloud sync for collection progress, lists, tasks and todos.
-* [**Critterpedia (1)**](https://critterpedia.moppler.co.uk) [:octocat:](https://github.com/Moppler/Critterpedia): Mobile-first web app listing bugs and fish available to catch _right now_, with location and sale price.
-* [**Critterpedia (2)**](https://critterpedia.nharox.com) (**in Beta**) Another Critterpedia tool with a grid format. Also shows Fossils and Art. You can select the items you have already found/donated and have them saved in the webapp to the Collection tab.
-* [**Nook Services**](https://nook.services/) [:octocat:](https://github.com/maael/nook): Website listing bugs, fish, fossils, art, custom designs, and DIY recipes, with lots of filtering and search options including marking and saving to an account. Very complex with lots of features.
-* [**Mystery Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Nook Miles island layouts and the probability of landing on them.
+### Геймплей
+* [**Travel Guide**](https://jeffreykuiken.nl/acnhtg/): Приложение для iOS, которое будет служить вашим карманным компаньоном во время игры; список жуков и рыб, доступных для ловли _ прямо сейчас_, с указанием местоположения, размера и цен продажи; инвентарь жителей деревни и все предметы, включая окаменелости, произведения искусства, песни K. K. Slider и цветы. `⭐️ настоятельно рекомендуем` 
+* [**AC Helper**](https://apps.apple.com/us/app/ac-helper/id1508764244?ls=1) [:octocat:](https://github.com/Dimillian/ACHNBrowserUI): Бесплатное приложение для iOS, доступное в App Store для iPhone, iPad и macOS. Настраиваемая панель мониторинга для отслеживания ваших рыб, жуков, прогресса сбора, активных событий, ежедневных задач, список задач и многого другого. Музыкальный плеер для песен K. K. Slider - воспроизводится, когда приложение находится в фоновом режиме! Полный браузер каталогов с фильтром, сортировкой и поиском. Список жителей. Поддержка Spotlight для рыб, жуков, окаменелостей и предметов искусства. Синхронизация iCloud для выполнения сбора, списков, задач и списка задач.
+* [**Critterpedia (1)**](https://critterpedia.moppler.co.uk) [:octocat:](https://github.com/Moppler/Critterpedia): Мобильное-первое веб-приложение, в котором перечислены жуки и рыбы, доступные для ловли _ прямо сейчас_, с указанием местоположения и цены продажи.
+* [**Critterpedia (2)**](https://critterpedia.nharox.com) (**in Beta**) Еще один инструмент Critterpedia с форматом сетки. Также показаны окаменелости и произведения искусства. Вы можете выбрать элементы, которые вы уже нашли/пожертвовали, и сохранить их в веб-приложении во вкладке для коллекций.
+* [**Nook Services**](https://nook.services/) [:octocat:](https://github.com/maael/nook): Веб-сайт со списком жуков, рыб, окаменелостей, произведений искусства, пользовательских дизайнов и рецептов "Сделай сам" с множеством опций фильтрации и поиска, включая маркировку и сохранение в учетной записи. Очень крупный, с множеством функций.
+* [**Mystery Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): Все возможные варианты расположения островов (за Мили Нука) и вероятность посадки на них.
 
 ### Custom designs
-* [**Pattern Editor**](https://acpatterns.com/editor): Use the browser to design in a facsimile of the in-game pattern editor (or upload and convert an image!) and get its NookLink QR code.
-* [**AC Custom Island Design**](https://discord.gg/uQFnKRH): Read-only Discord server listing meticulously categorized catalog of user-submitted designs from across the Internet.
-* [**r/acqr**](http://reddit.com/r/acqr): Community designs for the Able Sisters’ kiosk.
-* [**@acnh_patterns**](https://www.instagram.com/acnh_patterns): Curated Instagram account of community designs for the Able Sisters’ kiosk.
+* [**Pattern Editor**](https://acpatterns.com/editor): Используйте браузер для создания факсимильной копии внутриигрового редактора шаблонов (или загрузки и преобразования изображения!) и получения QR-кода NookLink.
+* [**AC Custom Island Design**](https://discord.gg/uQFnKRH): Сервер Discord, доступный только для чтения, содержит тщательно классифицированный каталог представленных пользователями проектов со всего Интернета.
+* [**r/acqr**](http://reddit.com/r/acqr): Проекты сообщества для киоска сестер Эйбл.
+* [**@acnh_patterns**](https://www.instagram.com/acnh_patterns): Куратор Instagram-аккаунта сообщества по дизайну киоска для сестер Эйбл.
 
 ### Island tune
-* [**AC Tune Maker**](https://ac-tune-maker.aikats.us/) [:octocat:](https://github.com/walfie/ac-tune-maker): Web app to easily make and share an island tune.
+* [**AC Tune Maker**](https://ac-tune-maker.aikats.us/) [:octocat:](https://github.com/walfie/ac-tune-maker): Веб-приложение, чтобы легко создавать и делиться островной мелодией.
 
 ### Gardening
 * [**Garden science FAQ**](https://docs.google.com/document/d/1XPAaPUvGMWQ-n5sBLV3jM78QKxqKjiGCzx5HnD7K5RI/preview): Guide containing the most up-to-date and accurated crowdsourced information regarding flower breeding. It also shows you which popular tutorial graphics are outdated or inacurrate by their findings.
